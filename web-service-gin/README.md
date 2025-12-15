@@ -1,4 +1,4 @@
-# go-web-service-gin
+# web-service-gin
 
 Simple REST api in Go.
 

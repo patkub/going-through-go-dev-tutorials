@@ -1,4 +1,4 @@
-# go-web-service-gin
+# generics
 
 Followed [Tutorial: Getting started with generics](https://go.dev/doc/tutorial/generics)
 
