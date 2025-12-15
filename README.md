@@ -2,6 +2,7 @@
 
 https://go.dev/doc/tutorial/
 
+- [hello-world](./hello-world/)
 - [web-service-gin](./web-service-gin/)
 - [generics](./generics/)
 - [fuzz](./fuzz/)
