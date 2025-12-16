@@ -9,3 +9,4 @@ https://go.dev/doc/tutorial/
 - [govulncheck](./govulncheck/)
 - [call-module-code](./call-module-code)
 - [guess-sqrt](./guess-sqrt/)
+- [pointers](./pointers/)
