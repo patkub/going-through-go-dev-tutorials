@@ -8,3 +8,4 @@ https://go.dev/doc/tutorial/
 - [fuzz](./fuzz/)
 - [govulncheck](./govulncheck/)
 - [call-module-code](./call-module-code)
+- [guess-sqrt](./guess-sqrt/)
