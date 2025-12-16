@@ -11,3 +11,4 @@
 [A Tour of Go](https://go.dev/tour/welcome/1)
 - [guess-sqrt](./tour/guess-sqrt/)
 - [pointers](./tour/pointers/)
+- [structs](./tour/structs/)
