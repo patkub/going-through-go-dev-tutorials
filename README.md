@@ -18,3 +18,5 @@
 - [range](./tour/range/)
   - [range-cont](./tour/range-cont/)
 - [map](./tour/map/)
+  - [map2](./tour/map2/)
+  - [map-literals](./tour/map-literals/)
