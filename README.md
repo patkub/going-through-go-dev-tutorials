@@ -14,3 +14,5 @@
 - [structs](./tour/structs/)
 - [arrays](./tour/arrays/)
 - [slices](./tour/slices/)
+  - [slices-append](./tour/slices-append/)
+- [range](./tour/range/)
