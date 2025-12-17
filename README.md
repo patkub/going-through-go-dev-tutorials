@@ -20,3 +20,4 @@
 - [map](./tour/map/)
   - [map2](./tour/map2/)
   - [map-literals](./tour/map-literals/)
+    - [map-literals-cont](./tour/map-literals-cont/)
