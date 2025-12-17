@@ -12,3 +12,5 @@
 - [guess-sqrt](./tour/guess-sqrt/)
 - [pointers](./tour/pointers/)
 - [structs](./tour/structs/)
+- [arrays](./tour/arrays/)
+- [slices](./tour/slices/)
