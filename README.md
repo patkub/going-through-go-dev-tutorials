@@ -21,3 +21,5 @@
   - [map2](./tour/map2/)
   - [map-literals](./tour/map-literals/)
     - [map-literals-cont](./tour/map-literals-cont/)
+  - [map-mutation](./tour/map-mutation/)
+- [function-values](./tour/function-values/)
