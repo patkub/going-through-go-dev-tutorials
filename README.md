@@ -23,3 +23,4 @@
     - [map-literals-cont](./tour/map-literals-cont/)
   - [map-mutation](./tour/map-mutation/)
 - [function-values](./tour/function-values/)
+  - [function-closures](./tour/function-closures/)
