@@ -26,3 +26,4 @@
   - [function-closures](./tour/function-closures/)
   - [fibonacci-closure](./tour/fibonacci-closure/)
 - [methods](./tour/methods/)
+  - [methods-cont](./tour/methods-cont/)
