@@ -27,3 +27,5 @@
   - [fibonacci-closure](./tour/fibonacci-closure/)
 - [methods](./tour/methods/)
   - [methods-cont](./tour/methods-cont/)
+- [pointer-receivers](./tour/pointer-receivers/)
+  - [pointer-receivers-cont](./tour/pointer-receivers-cont/)
